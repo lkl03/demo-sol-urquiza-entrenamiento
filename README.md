@@ -1,2 +1,7 @@
-# demo-sol-urquiza-entrenamiento
-Demo web para Sol Urquiza Entrenamiento — diseñada por eterlab.
+# Sol Urquiza Entrenamiento
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
